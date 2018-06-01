@@ -1,0 +1,6 @@
+[Wed Feb 07 19:39:27.106330 2018] [mpm_event:notice] [pid 390:tid 140194580236160] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Feb 07 19:39:27.106406 2018] [core:notice] [pid 390:tid 140194580236160] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Feb 08 15:10:25.057506 2018] [mpm_event:notice] [pid 244:tid 139661719492480] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Feb 08 15:10:25.057571 2018] [core:notice] [pid 244:tid 139661719492480] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Feb 09 15:01:00.626265 2018] [mpm_event:notice] [pid 104:tid 140480102745984] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Feb 09 15:01:00.626335 2018] [core:notice] [pid 104:tid 140480102745984] AH00094: Command line: '/usr/sbin/apache2'
